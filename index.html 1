@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Progate</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+  <body>
+    <div class="header">
+      <div class="header-logo">Bakery</div>
+      <div class="header-list">
+        <ul>
+          <li>About us</li>
+          <li>Struktur</li>
+          <li>Contact us</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="main">
+      <div class="copy-container">
+        <h1><marquee>Welcome to Gia Tradisional Bakery<span>.</span></marquee></h2>
+        <h2>Aneka Olahan Kue Basah</h2>
+      </div>
+      
+      <div class="contents">
+              <h3 class="section-title">Daftar Belanjaan</h3>
+        <div class="contents-item">
+          <img src="https://raw.githubusercontent.com/18610031NovitaAnggiaPutri/progate.github.io/master/yougurt.jpg">
+          <p>Kue Lapis Legit</p>
+        </div>
+        <div class="contents-item">
+          <img src="https://raw.githubusercontent.com/18610031NovitaAnggiaPutri/progate.github.io/master/candy.jpg">
+          <p>Kue Lumpur</p>
+        </div>
+        <div class="contents-item">
+          <img src="https://raw.githubusercontent.com/18610031NovitaAnggiaPutri/progate.github.io/master/ice%20cream.jpg">
+          <p>Kue Pancong</p>
+        </div>
+        <div class="contents-item">
+          <img src="https://raw.githubusercontent.com/18610031NovitaAnggiaPutri/progate.github.io/master/tahu-susu.jpg">
+          <p>Bika Ambon</p>
+        </div>
+        <div class="contents-item">
+          <img src="https://raw.githubusercontent.com/18610031NovitaAnggiaPutri/progate.github.io/master/keju.jpg">
+          <p>Kue Putu</p>
+        </div>
+      </div>
+      
+      <div class="contact-form">
+        <h3 class="section-title">Hubungi kami</h3>
+        <p>Email (Wajib Diisi)</p>
+        <!-- Tambahkan tag <input> -->
+        <input>
+        
+        <p>Pesan (Wajib Diisi)</p>
+        <!-- Tambahkan tag <textarea> --> 
+        <textarea></textarea>
+        
+        <p>*Required fieleds must be filled</p>
+        <!-- Tambahkan tag <input> -->
+        <input class="contact-submit" type="submit" value="Kirim">
+        
+      </div>
+    </div>
+
+    <div class="footer">
+      <div class="footer-logo">Progate</div>
+      <div class="footer-list">
+        <ul>
+          <li>Tentang</li>
+          <li>Alammat</li>
+          <li>Hubungi Kami</li>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
