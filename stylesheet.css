@@ -3,6 +3,7 @@ img { width:220px;
 }
 body {
   font-family: "Avenir Next";
+  bacground-color: #ffe4el;
 }
 
 li {
@@ -10,7 +11,7 @@ li {
 }
 
 .header {
-  background-color: #26d0c9;
+  background-color: #f08080;
   color: #fff;
   height: 90px;
 }
@@ -39,7 +40,7 @@ li {
 }
 
 .copy-container span {
-  color: #ff4a4a;
+  color: #ffefd5;
 }
 
 .contents {
