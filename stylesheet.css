@@ -46,7 +46,6 @@ li {
 .contents {
   height: 500px;
   margin-top: 100px;
-
 }
 
 .section-title {
@@ -62,6 +61,11 @@ li {
 }
 
 .contents-item {
+  float: left;
+  margin-right: 40px;
+}
+
+.contents-item2 {
   float: inherit;
   margin-right: 40px;
 }
