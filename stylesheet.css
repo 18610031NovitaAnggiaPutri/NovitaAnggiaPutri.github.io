@@ -56,7 +56,6 @@ li {
 }
 
 .contents-item {
-  float: left;
   margin-right: 40px;
 }
 
@@ -66,7 +65,7 @@ li {
 }
 
 .contact-form {
-  padding-top: 400px;
+  padding-top: 100px;
 }
 
 /* Add CSS for <input> and <textarea> tags */
